@@ -5,5 +5,5 @@ I'm a Master's graduate living in Porto, Portugal. I have a deep passion for AI 
 - 🧠 Proficient in [Scikit-Learn](https://scikit-learn.org/stable/index.html#), [Pytorch](https://pytorch.org/), and [HuggingFace](https://huggingface.co/) for AI development.
 - 💻 Passionate about [Svelte](https://svelte.dev/) and [SvelteKit](https://kit.svelte.dev/) for web dev, and knowledgeable in [Figma](https://www.figma.com/) for design.
 - 📫 How to reach me: tiagopbr.2001@gmail.com or through my [Linkedin](https://www.linkedin.com/in/tiago-rodrigues-221ba7204/)
-- 📔 Check out my [resume](https://drive.google.com/file/d/1H9jrU36P9h-HkcmEuV_ZWEQPsZBACPOX/view?usp=sharing)
+- 📔 Check out my [resume](https://www.tiagopbrodrigues.com/resume.pdf)
 - ⚡ Fun fact: I intend to visit every country in the world and spend at least a week in each one
